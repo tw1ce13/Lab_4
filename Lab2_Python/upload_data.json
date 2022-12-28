@@ -1,0 +1,10 @@
+{
+        "City": {
+                "name": "Moscow",
+                "people_count": 100000
+        },
+        "Place": {
+                "width": -32,
+                "longitude": 77
+        }
+}
